@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014.06.04 08:21:12.743.cpp,C:\Users\User\Documents\RAD Studio\Projects\File5.cpp=C:\Users\User\Desktop\NewPro\simplex.cpp</Transaction>
+    <Transaction>2014.06.04 08:21:40.206.cbproj,C:\Users\User\Documents\RAD Studio\Projects\Project9.cbproj=C:\Users\User\Desktop\NewPro\simple.cbproj</Transaction>
+    <Transaction>2014.06.04 09:11:33.484.cpp,C:\Users\User\Desktop\NewPro\File1.cpp=C:\Users\User\Desktop\NewPro\other.cpp</Transaction>
+    <Transaction>2014.06.04 09:11:46.760.h,C:\Users\User\Desktop\NewPro\File1.h=C:\Users\User\Desktop\NewPro\other.h</Transaction>
+    <Transaction>2014.06.04 11:40:07.500.txt,C:\Users\User\Desktop\NewPro\func.txt=C:\Users\User\Desktop\NewPro\Debug\func.txt</Transaction>
+    <Transaction>2014.06.04 15:20:00.072.txt,C:\Users\User\Desktop\NewPro\Debug\input.txt=C:\Users\User\Desktop\NewPro\Debug\input1.txt</Transaction>
+    <Transaction>2014.06.04 15:22:12.237.txt,C:\Users\User\Desktop\NewPro\Debug\func.txt=C:\Users\User\Desktop\NewPro\Debug\func1.txt</Transaction>
+    <Transaction>2014.06.07 21:56:13.069.cpp,C:\Users\User\Desktop\NewPro\tSLEQ.cpp=</Transaction>
+    <Transaction>2014.06.07 21:56:19.365.h,C:\Users\User\Desktop\NewPro\tSLEQ.h=</Transaction>
+    <Transaction>2014.06.07 22:06:34.905.txt,C:\Users\User\Desktop\NewPro\Debug\extr.txt=</Transaction>
+  </Transactions>
+</BorlandProject>
